@@ -1,4 +1,4 @@
-# Scam-Proof Your Life Template
+# Scam-Proof Your Life
 
 This web application was originally created in March 2025 to promote the phishing and scam prevention event, **Scam-Proof Your Life**, hosted by the Northampton Community College Computer Club on **Monday, April 14, 2025**, at **4:00 PM** in **College Center 146**.
 

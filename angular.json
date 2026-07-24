@@ -6,7 +6,7 @@
   },
   "newProjectRoot": "projects",
   "projects": {
-    "scam-proof-your-life-template": {
+    "scam-proof-your-life": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -54,10 +54,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "scam-proof-your-life-template:build:production"
+              "buildTarget": "scam-proof-your-life:build:production"
             },
             "development": {
-              "buildTarget": "scam-proof-your-life-template:build:development"
+              "buildTarget": "scam-proof-your-life:build:development"
             }
           },
           "defaultConfiguration": "development"
