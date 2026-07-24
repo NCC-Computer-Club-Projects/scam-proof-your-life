@@ -4,9 +4,9 @@ This web application was originally created in March 2025 to promote the phishin
 
 ## About This Version
 
-This repository is a revamp of the original repository with a similar name and was created to showcase newer web development skills using Angular.
+This repository is a revamp of the original repository with a similar name and was created using Angular.
 
-The original project was intended to be accessed through a QR code on a fake bake sale flyer, encouraging students and staff who fell for the mock scam to sign up for the event through a Google Form. Updated versions of this flyer, the event flyers, and the presentation are now included in the repository in the `materials` folder (original credits below). The fake bake sale flyer serves as a practical demonstration of how social engineering tactics can be used to gain trust and encourage interaction.
+The original project was accessed through a QR code on a fake bake sale flyer, encouraging students and staff who fell for the mock scam to sign up for the event through a Google Form. Updated versions of this flyer, the event flyers, and the presentation are now included in the repository in the `materials` folder (original credits below). The fake bake sale flyer serves as a practical demonstration of how social engineering tactics can be used to gain trust and encourage interaction.
 
 Feel free to use this as a reference if you are running your own phishing awareness event.
 
@@ -15,7 +15,26 @@ Feel free to use this as a reference if you are running your own phishing awaren
 - Angular
 - Netlify
 
-## Development
+## Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) and npm installed.
+
+## Installation and Setup
+
+Clone the repository and navigate to the project directory:
+
+```bash
+git clone <your-repository-url>
+cd <project-directory>
+```
+
+Install the project dependencies:
+
+```bash
+npm install
+```
+
+### Run Development Server
 
 To start a local development server, run:
 
@@ -23,10 +42,28 @@ To start a local development server, run:
 ng serve
 ```
 
+The application will be available at:
+
+```bash
+http://localhost:4200/
+```
+
+### Build for Production
+
 To build the project for production, run:
 
 ```bash
 ng build
+```
+
+The build output will be generated in the `dist/` directory.
+
+### Testing
+
+To run tests, use:
+
+```bash
+ng test
 ```
 
 ## Credits
