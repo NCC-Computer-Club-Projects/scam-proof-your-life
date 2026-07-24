@@ -6,7 +6,7 @@ This web application was originally created in March 2025 to promote the phishin
 
 This repository is a revamp of the original repository with a similar name and was created using Angular.
 
-The original project was accessed through a QR code on a fake bake sale flyer, encouraging students and staff who fell for the mock scam to sign up for the event through a Google Form. Updated versions of this flyer, the event flyers, and the presentation are now included in the repository in the `materials` folder (original credits below). The fake bake sale flyer serves as a practical demonstration of how social engineering tactics can be used to gain trust and encourage interaction.
+The original project was accessed through a QR code on a fake bake sale flyer, encouraging students and staff who fell for the mock scam to sign up for the event through a Google Form. Updated versions of this flyer, the event flyers, and the presentation are now included in the repository in the `materials` directory (original credits below). The fake bake sale flyer serves as a practical demonstration of how social engineering tactics can be used to gain trust and encourage interaction.
 
 Feel free to use this as a reference if you are running your own phishing awareness event.
 
@@ -71,3 +71,9 @@ ng test
 - Fake Bake Sale Flyer (originally by [Sushi](https://github.com/Sushi314))
 - Scam-Proof Your Life Flyers I and II (originally by [Sushi](https://github.com/Sushi314) and [Tony](https://github.com/CyberWiz93))
 - Scam-Proof Your Life Event Presentation (originally by [Sushi](https://github.com/Sushi314) and [Daniel Carbone](https://github.com/Dcarb697))
+
+## License
+
+The source code for this project is licensed under the MIT License.
+
+Event materials in the `materials` directory may have separate attribution or usage requirements. See the credits section for details.
