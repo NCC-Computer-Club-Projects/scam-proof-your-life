@@ -69,8 +69,8 @@ ng test
 ## Credits
 
 - Fake Bake Sale Flyer (originally by [Sushi](https://github.com/Sushi314))
-- Scam-Proof Your Life Flyers I and II (originally by [Sushi](https://github.com/Sushi314) and [Tony](https://github.com/CyberWiz93))
-- Scam-Proof Your Life Event Presentation (originally by [Sushi](https://github.com/Sushi314) and [Daniel Carbone](https://github.com/Dcarb697))
+- Scam-Proof Your Life Flyers 1 and 2 (originally by [Sushi](https://github.com/Sushi314) and [Tony](https://github.com/CyberWiz93))
+- Scam-Proof Your Life Presentation (originally by [Sushi](https://github.com/Sushi314) and [Daniel Carbone](https://github.com/Dcarb697))
 
 ## License
 
