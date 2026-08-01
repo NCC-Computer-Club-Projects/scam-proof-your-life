@@ -78,4 +78,4 @@ ng test
 
 The source code for this project is licensed under the MIT License.
 
-Event materials in the `materials` directory may have separate attribution or usage requirements. See the credits section for details.
+Event materials in the `materials` directory may have separate attribution or usage requirements. See the Credits section for details.
