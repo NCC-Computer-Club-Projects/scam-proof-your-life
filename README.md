@@ -26,8 +26,8 @@ Make sure you have [Node.js](https://nodejs.org/) and npm installed.
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone <your-repository-url>
-cd <project-directory>
+git clone https://github.com/NCC-Computer-Club-Projects/scam-proof-your-life.git
+cd scam-proof-your-life
 ```
 
 Install the project dependencies:
